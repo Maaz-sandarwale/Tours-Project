@@ -1,2 +1,6 @@
 This is some content
+<<<<<<< HEAD
 From main
+=======
+This is form another branch
+>>>>>>> new_branch_to_merge_later
